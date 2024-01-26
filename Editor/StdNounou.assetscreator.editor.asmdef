@@ -1,6 +1,6 @@
 {
     "name": "stdnounou.assetscreator.editor",
-    "rootNamespace": "",
+    "rootNamespace": "StdNounou.AssetsCreator.Editor",
     "references": [],
     "includePlatforms": [
         "Editor"

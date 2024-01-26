@@ -1,6 +1,6 @@
 {
   "name": "com.stdnounou.assets-creator",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "displayName": "Assets Creator",
   "description": "This is a utility that will let you create assets.",
   "unity": "2021.3",

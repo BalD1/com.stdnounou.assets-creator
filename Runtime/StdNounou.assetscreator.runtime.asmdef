@@ -1,3 +1,14 @@
 {
-	"name": "stdnounou.assetscreator.runtime"
+    "name": "stdnounou.assetscreator.runtime",
+    "rootNamespace": "StdNounou.AssetsCreator",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
 }
